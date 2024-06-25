@@ -36,7 +36,7 @@ const Sound = () => {
         }
 
         ['click', 'keydown', 'touchstart'].forEach((event) => {
-            document.removeEventListener(event, handleFirstUserInteraction)
+            document.removeEventListener(event, handleFirstUserInteraction())
         }
 
         )
