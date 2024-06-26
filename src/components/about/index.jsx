@@ -40,7 +40,7 @@ const AboutDetails = () => {
                     <img className='w-full h-auto' src="https://github-readme-streak-stats.herokuapp.com?user=ayushisingh73448&theme=dark&hide_border=true&type=png&ring=FEFE5B&background=EB545400&currStreakNum=FEFE5B" alt='Ayushi' loading='lazy' />
                 </ItemLayout>
                 <ItemLayout className={'col-span-full md:col-span-6'}>
-                    <img className='w-full h-auto' src='https://github-readme-stats.vercel.app/api/pin/?username=ayushisingh73448&repo=My_Portfolio&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&description_line_count=2' alt='Ayushi' loading='lazy' />
+                    <img className='w-full h-auto' src='https://github-readme-stats.vercel.app/api/pin/?username=ayushisingh73448&repo=caseburst&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&description_line_count=2' alt='Ayushi' loading='lazy' />
                 </ItemLayout>
 
             </div>

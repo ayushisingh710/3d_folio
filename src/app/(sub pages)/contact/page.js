@@ -15,15 +15,12 @@ export default function Contact() {
       <article className="relative w-full flex flex-col items-center justify-center py-8 sm:py-0 space-y-8">
         <div className="flex flex-col items-center justify-center space-y-6 w-full sm:*:w-3/4">
           <h1 className="text-accent font-semibold text-center text-4xl capitalize">
-            Summon the Wizard
+            Contact with me
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-            lorem Ipsum is Lorem Ipsum has been the industry's standard dummy
-            text ever since the 1500s, whenFeel free to contact me for any
-            questions orFeel free to contact me through any of these I am a
-            software developer with experience in web development, mobile
-            application development and cloud computing.
+            "Let's Create Something Amazing Together"{" "}
           </p>
+          <br />
         </div>
       </article>
       <Form />
